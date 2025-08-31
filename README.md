@@ -19,7 +19,7 @@ This project allows users to **generate, preview, and download invoices** with c
 
 
 
-🛠️ **Tech Stack**
+# 🛠️ **Tech Stack**
 
 Frontend: React (with Vite)
 
@@ -33,7 +33,7 @@ Package Manager: npm
 ---
 
 
-📂 **Project Structure**
+# 📂 **Project Structure**
 invoice-generator/
 │── public/             # Static assets
 │── src/
@@ -62,13 +62,13 @@ cd invoice-generator
 npm install
 
 ### 4️⃣ Run the Application
-npm start
+npm run dev
 
 
 ---
 
 
-🎨 **Usage**
+# 🎨 **Usage**
 
 Open the app in your browser (http://localhost:5173 by default).
 
@@ -82,7 +82,7 @@ Click Download / Print to generate a PDF or print directly.
 ---
 
 
-📸 **Screenshots**
+# 📸 **Screenshots**
 Invoice Form
 
 <img width="1372" height="895" alt="image" src="https://github.com/user-attachments/assets/da1f7b05-4596-4383-90b7-b9f3af58682f" />
@@ -91,7 +91,7 @@ Invoice Form
 ---
 
 
-📌 **Future Enhancements**
+# 📌 **Future Enhancements**
 
 🔹 Add authentication for storing invoices securely
 
@@ -107,7 +107,7 @@ Invoice Form
 ---
 
 
-🤝 **Contributing**
+# 🤝 **Contributing**
 
 Contributions are welcome! To contribute:
 
@@ -124,7 +124,7 @@ Push your branch and create a Pull Request
 ---
 
 
-👨‍💻 **Author**
+# 👨‍💻 **Author**
 
 Harshit Raj
 
