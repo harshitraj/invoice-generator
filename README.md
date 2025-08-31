@@ -1,5 +1,4 @@
 📑 **Invoice Generator**
-
 A simple and customizable Invoice Generator Web Application built with React, Vite, and Bootstrap. This project allows users to create professional invoices dynamically by filling in customer, product, and pricing details. It’s lightweight, fast, and user-friendly.
 
 🚀 **Features**
