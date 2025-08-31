@@ -1,5 +1,9 @@
 📑 **Invoice Generator**
+
 A simple and customizable Invoice Generator Web Application built with React, Vite, and Bootstrap. This project allows users to create professional invoices dynamically by filling in customer, product, and pricing details. It’s lightweight, fast, and user-friendly.
+
+
+
 
 🚀 **Features**
 
@@ -17,6 +21,9 @@ A simple and customizable Invoice Generator Web Application built with React, Vi
 
 ✅ Cross-browser Support
 
+
+
+
 🛠️ **Tech Stack**
 
 Frontend: React (with Vite)
@@ -26,6 +33,9 @@ Styling: Bootstrap 5
 PDF/Print Support: jsPDF
 
 Package Manager: npm 
+
+
+
 
 📂 **Project Structure**
 invoice-generator/
@@ -37,6 +47,9 @@ invoice-generator/
 │── package.json        # Dependencies & scripts
 │── vite.config.js      # Vite configuration
 │── README.md           # Project documentation
+
+
+
 
 ⚙️ **Installation**
 
@@ -65,6 +78,9 @@ Preview production build:
 
 npm run preview
 
+
+
+
 🎨 **Usage**
 
 Open the app in your browser (http://localhost:5173 by default).
@@ -75,10 +91,16 @@ The invoice total updates automatically.
 
 Click Download / Print to generate a PDF or print directly.
 
+
+
+
 📸 **Screenshots**
 Invoice Form
 
 <img width="1372" height="895" alt="image" src="https://github.com/user-attachments/assets/da1f7b05-4596-4383-90b7-b9f3af58682f" />
+
+
+
 
 📌 **Future Enhancements**
 
@@ -91,6 +113,9 @@ Invoice Form
 🔹 Dark mode for UI
 
 🔹 Cloud storage (Firebase/AWS integration)
+
+
+
 
 🤝 **Contributing**
 
@@ -105,6 +130,9 @@ Commit your changes
 Push your branch and create a Pull Request
 
 
+
+
+
 👨‍💻 **Author**
 
 Harshit Raj
@@ -113,4 +141,4 @@ Harshit Raj
 
 🌐 Portfolio: https://raj-harshit-portfolio.vercel.app/
 
-💻 GitHub: @harshitraj
+💻 GitHub: https://github.com/harshitraj
