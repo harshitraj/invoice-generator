@@ -1,8 +1,8 @@
-📑 Invoice Generator
+📑 **Invoice Generator**
 
 A simple and customizable Invoice Generator Web Application built with React, Vite, and Bootstrap. This project allows users to create professional invoices dynamically by filling in customer, product, and pricing details. It’s lightweight, fast, and user-friendly.
 
-🚀 Features
+🚀 **Features**
 
 ✅ Add Company & Client Information
 
@@ -18,17 +18,17 @@ A simple and customizable Invoice Generator Web Application built with React, Vi
 
 ✅ Cross-browser Support
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Frontend: React (with Vite)
 
 Styling: Bootstrap 5
 
-PDF/Print Support: jsPDF / window.print() (depending on your implementation)
+PDF/Print Support: jsPDF
 
-Package Manager: npm / yarn
+Package Manager: npm 
 
-📂 Project Structure
+📂 **Project Structure**
 invoice-generator/
 │── public/             # Static assets
 │── src/
@@ -39,11 +39,11 @@ invoice-generator/
 │── vite.config.js      # Vite configuration
 │── README.md           # Project documentation
 
-⚙️ Installation
+⚙️ **Installation**
 
 Clone the repository:
 
-git clone https://github.com/your-username/invoice-generator.git
+git clone https://github.com/harshitraj/invoice-generator.git
 cd invoice-generator
 
 
@@ -66,7 +66,7 @@ Preview production build:
 
 npm run preview
 
-🎨 Usage
+🎨 **Usage**
 
 Open the app in your browser (http://localhost:5173 by default).
 
@@ -76,16 +76,12 @@ The invoice total updates automatically.
 
 Click Download / Print to generate a PDF or print directly.
 
-📸 Screenshots
+📸 **Screenshots**
 Invoice Form
 
-(Screenshot of invoice form UI here)
+<img width="1372" height="895" alt="image" src="https://github.com/user-attachments/assets/da1f7b05-4596-4383-90b7-b9f3af58682f" />
 
-Generated Invoice Preview
-
-(Screenshot of final invoice preview here)
-
-📌 Future Enhancements
+📌 **Future Enhancements**
 
 🔹 Add authentication for storing invoices securely
 
@@ -97,7 +93,7 @@ Generated Invoice Preview
 
 🔹 Cloud storage (Firebase/AWS integration)
 
-🤝 Contributing
+🤝 **Contributing**
 
 Contributions are welcome! To contribute:
 
@@ -109,16 +105,13 @@ Commit your changes
 
 Push your branch and create a Pull Request
 
-📜 License
 
-This project is licensed under the MIT License – free to use and modify.
-
-👨‍💻 Author
+👨‍💻 **Author**
 
 Harshit Raj
 
-📧 Email: harshit.raj@example.com
+📧 Email: rajharshit634@gmail.com
 
-🌐 Portfolio: [Your Portfolio Link]
+🌐 Portfolio: https://raj-harshit-portfolio.vercel.app/
 
 💻 GitHub: @harshitraj
