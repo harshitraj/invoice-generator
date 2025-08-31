@@ -1,21 +1,21 @@
-📑 **Invoice Generator**
+# 🧾 Invoice Generator  
 
-A simple and customizable Invoice Generator Web Application built with React, Vite, and Bootstrap. This project allows users to create professional invoices dynamically by filling in customer, product, and pricing details. It’s lightweight, fast, and user-friendly.
+A simple and efficient **Invoice Generator** built using **React.js**.  
+This project allows users to **generate, preview, and download invoices** with customizable fields.  
 
+---
 
+## ✨ Features  
 
+✅ Generate professional invoices easily  
+✅ Add customer & company details  
+✅ Add multiple items with price & quantity  
+✅ Auto-calculation of totals  
+✅ Download invoice as **PDF**  
+✅ Clean & minimal UI with **Bootstrap styling**  
 
-🚀 **Features**
+---
 
-➕ Add, edit, and remove invoice items
-
-🧮 Automatic calculation of totals
-
-🎨 Responsive design using Bootstrap
-
-🖨️ Print-ready invoice layout
-
-⚡ Built with React for a fast and interactive experience
 
 
 
@@ -30,6 +30,7 @@ PDF/Print Support: jsPDF
 Package Manager: npm 
 
 
+---
 
 
 📂 **Project Structure**
@@ -44,36 +45,33 @@ invoice-generator/
 │── README.md           # Project documentation
 
 
+---
 
 
 ⚙️ **Installation**
 
-Clone the repository:
 
-git clone https://github.com/harshitraj/invoice-generator.git
+---
+
+## 🚀 Getting Started  
+
+Follow these steps to run the project locally:  
+
+### 1️⃣ Clone the Repository  
+
+git clone https://github.com/your-username/invoice-generator.git
+
+### 2️⃣ Navigate to the Project Directory
 cd invoice-generator
 
-
-Install dependencies:
-
+### 3️⃣ Install Dependencies
 npm install
 
-
-Run the development server:
-
-npm run dev
+### 4️⃣ Run the Application
+npm start
 
 
-Build for production:
-
-npm run build
-
-
-Preview production build:
-
-npm run preview
-
-
+---
 
 
 🎨 **Usage**
@@ -87,6 +85,7 @@ The invoice total updates automatically.
 Click Download / Print to generate a PDF or print directly.
 
 
+---
 
 
 📸 **Screenshots**
@@ -95,6 +94,7 @@ Invoice Form
 <img width="1372" height="895" alt="image" src="https://github.com/user-attachments/assets/da1f7b05-4596-4383-90b7-b9f3af58682f" />
 
 
+---
 
 
 📌 **Future Enhancements**
@@ -110,6 +110,7 @@ Invoice Form
 🔹 Cloud storage (Firebase/AWS integration)
 
 
+---
 
 
 🤝 **Contributing**
@@ -126,6 +127,7 @@ Push your branch and create a Pull Request
 
 
 
+---
 
 
 👨‍💻 **Author**
