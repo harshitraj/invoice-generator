@@ -7,20 +7,15 @@ A simple and customizable Invoice Generator Web Application built with React, Vi
 
 🚀 **Features**
 
-✅ Add Company & Client Information
+➕ Add, edit, and remove invoice items
 
-✅ Add Multiple Items/Products with description, quantity, and price
+🧮 Automatic calculation of totals
 
-✅ Automatic Calculation of subtotal, tax, discount, and total
+🎨 Responsive design using Bootstrap
 
-✅ Responsive UI powered by Bootstrap
+🖨️ Print-ready invoice layout
 
-✅ Export/Download Invoice as PDF or Printable format
-
-✅ Lightweight & Fast with Vite as the build tool
-
-✅ Cross-browser Support
-
+⚡ Built with React for a fast and interactive experience
 
 
 
